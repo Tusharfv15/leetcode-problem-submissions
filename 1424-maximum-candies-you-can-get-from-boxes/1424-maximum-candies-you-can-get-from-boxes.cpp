@@ -1,31 +1,29 @@
 class Solution {
 public:
-    int maxCandies(std::vector<int>& status, std::vector<int>& candies, std::vector<std::vector<int>>& keys, std::vector<std::vector<int>>& containedBoxes, std::vector<int>& initialBoxes) {
-        std::queue<int> queue;
-        for (int box : initialBoxes) queue.push(box);
-        
-        int total = 0;
+    int maxCandies(vector<int>& status, vector<int>& candies, vector<vector<int>>& keys, vector<vector<int>>& containedBoxes, vector<int>& initialBoxes) {
+        queue<int>q;
+        for(auto it : initialBoxes)q.push(it);
+        int ans = 0;
+        while(!q.empty()){
+            int box = q.front();
+            q.pop();
 
-        while (!queue.empty()) {
-            int box = queue.front();
-            queue.pop();
+            if(status[box] == 0){
+                if(q.empty()) return ans;
+                else q.push(box);
+            }
+            else {
+                ans += candies[box];
 
-            if (status[box] == 0) {
-                if (queue.empty()) return total;
-                queue.push(box);
-            } else {
-                total += candies[box];
-
-                for (int key : keys[box]) {
+                for(auto key : keys[box]){
                     status[key] = 1;
                 }
 
-                for (int contained : containedBoxes[box]) {
-                    queue.push(contained);
+                for(auto it : containedBoxes[box]){
+                    q.push(it);
                 }
             }
         }
-
-        return total;
+        return ans;
     }
 };
