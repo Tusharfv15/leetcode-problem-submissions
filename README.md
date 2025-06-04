@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0135-candy) |
+| [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1130-last-stone-weight-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1130-last-stone-weight-ii) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
@@ -68,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-cherry-pickup-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1559-cherry-pickup-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
+## Tree
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
+## Depth-First Search
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
 <!---LeetCode Topics End-->
