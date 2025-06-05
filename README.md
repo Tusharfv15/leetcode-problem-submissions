@@ -68,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0854-making-a-large-island) |
 | [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
 | [0854-making-a-large-island](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0854-making-a-large-island) |
 | [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Sorting
 |  |
 | ------- |
