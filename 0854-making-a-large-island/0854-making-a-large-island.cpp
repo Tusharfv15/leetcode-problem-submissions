@@ -51,7 +51,8 @@ public:
                         if (nr >= 0 && nr < n && nc >= 0 && nc < m) {
                             int neighbour = nr * m + nc;
                             if (grid[nr][nc] == 1 &&
-                                ds.findUParent(neighbour) != ds.findUParent(curr)) {
+                                ds.findUParent(neighbour) !=
+                                    ds.findUParent(curr)) {
                                 ds.Union(neighbour, curr);
                             }
                         }
@@ -84,7 +85,6 @@ public:
             }
         }
 
-      
         if (ans == 0) {
             return n * m;
         }
