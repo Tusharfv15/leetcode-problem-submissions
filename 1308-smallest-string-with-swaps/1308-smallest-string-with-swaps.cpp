@@ -54,7 +54,7 @@ public:
             sort(it.second.begin(), it.second.end());
         } */
 
-        for (auto& [root, indices] : mpp) {
+        for (auto [root, indices] : mpp) {
             string& chars = storeString[root];
             sort(chars.begin(), chars.end());
             sort(indices.begin(), indices.end());
