@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1130-last-stone-weight-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1130-last-stone-weight-ii) |
+| [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1559-cherry-pickup-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1559-cherry-pickup-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
+| [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
+| [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
 ## Tree
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
+| [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -96,8 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
 ## Union Find
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
+## Sorting
+|  |
+| ------- |
+| [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
 <!---LeetCode Topics End-->
