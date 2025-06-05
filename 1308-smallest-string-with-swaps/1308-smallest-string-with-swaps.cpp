@@ -47,19 +47,19 @@ public:
             storeString[root] += s[i];
         }
 
-     /*    for (auto it : storeString) {
+        /*    for (auto it : storeString) {
             sort(it.second.begin(), it.second.end());
         }
         for (auto it : mpp) {
             sort(it.second.begin(), it.second.end());
         } */
 
-        for (auto [root, indices] : mpp) {
-            string& chars = storeString[root];
+        for (auto it : mpp) {
+            string& chars = storeString[it.first];
             sort(chars.begin(), chars.end());
-            sort(indices.begin(), indices.end());
-            for (int i = 0; i < indices.size(); ++i) {
-                s[indices[i]] = chars[i];
+            sort(it.second.begin(), it.second.end());
+            for (int i = 0; i <it.second.size(); ++i) {
+                s[it.second[i]] = chars[i];
             }
         }
 
