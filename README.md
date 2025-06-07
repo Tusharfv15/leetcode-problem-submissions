@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Matrix
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0854-making-a-large-island) |
 | [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Binary Indexed Tree
 |  |
 | ------- |
