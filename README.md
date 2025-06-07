@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1130-last-stone-weight-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1130-last-stone-weight-ii) |
+| [1250-longest-common-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1250-longest-common-subsequence) |
 | [1559-cherry-pickup-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1559-cherry-pickup-ii) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Breadth-First Search
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1250-longest-common-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1250-longest-common-subsequence) |
 | [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
