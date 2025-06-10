@@ -1,25 +1,30 @@
 class Solution {
-    
 public:
-    int dp[505][505];
-    int f(int ind,int n,vector<int>&cost,vector<int>&time){
-        int sz = cost.size();
-        if(n <=0) return 0;
-        if(ind == sz){
-            if(n == 0) return 0;
-            return 1e9+7;
-        }
-        if(dp[ind][n] !=-1) return dp[ind][n];
-
-        int paidPainter = cost[ind] + f(ind+1,n-1-time[ind],cost,time);
-        int notTake = f(ind+1,n,cost,time);
-
-        return dp[ind][n] = min(paidPainter,notTake);
-
-    }
     int paintWalls(vector<int>& cost, vector<int>& time) {
-        int n = cost.size();
-        memset(dp,-1,sizeof(dp));
-        return f(0,n,cost,time);
+          int n = cost.size();
+   
+    vector<vector<int>> dp(n + 1, vector<int>(n + 1, 1e9));
+    
+   
+    for (int ind = 0; ind <= n; ++ind) {
+        dp[ind][0] = 0;
+    }
+    
+    for (int ind = n - 1; ind >= 0; --ind) {
+        for (int walls = 1; walls <= n; ++walls) {
+         
+            int paidPainter = cost[ind];
+            int remaining_walls = walls - 1 - time[ind];
+            if (remaining_walls < 0) remaining_walls = 0;
+            paidPainter += dp[ind + 1][remaining_walls];
+            
+            
+            int notTake = dp[ind + 1][walls];
+            
+            dp[ind][walls] = min(paidPainter, notTake);
+        }
+    }
+    
+    return dp[0][n];
     }
 };
