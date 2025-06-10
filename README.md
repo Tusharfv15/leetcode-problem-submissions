@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1559-cherry-pickup-ii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2808-painting-the-walls](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2808-painting-the-walls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Greedy
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1250-longest-common-subsequence) |
 | [1286-constrained-subsequence-sum](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1286-constrained-subsequence-sum) |
 | [1559-cherry-pickup-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1559-cherry-pickup-ii) |
+| [2808-painting-the-walls](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2808-painting-the-walls) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Breadth-First Search
 |  |
