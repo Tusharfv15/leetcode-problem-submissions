@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0135-candy) |
+| [0212-word-search-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0212-word-search-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
 | [0735-asteroid-collision](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0735-asteroid-collision) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0212-word-search-ii) |
 | [0854-making-a-large-island](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0854-making-a-large-island) |
 | [1559-cherry-pickup-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1559-cherry-pickup-ii) |
 ## Hash Table
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0212-word-search-ii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1250-longest-common-subsequence) |
 | [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0386-lexicographical-numbers) |
 ## Number Theory
 |  |
@@ -194,4 +198,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
