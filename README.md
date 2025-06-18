@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2808-painting-the-walls](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2808-painting-the-walls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Bit Manipulation
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Stack
 |  |
 | ------- |
