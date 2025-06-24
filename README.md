@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2808-painting-the-walls](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2808-painting-the-walls) |
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0139-word-break) |
+## Two Pointers
+|  |
+| ------- |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 <!---LeetCode Topics End-->
