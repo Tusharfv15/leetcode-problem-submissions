@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Greedy
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
