@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1559-cherry-pickup-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1559-cherry-pickup-ii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0135-candy) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0794-swim-in-rising-water) |
 | [1286-constrained-subsequence-sum](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1286-constrained-subsequence-sum) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Counting
