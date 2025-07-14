@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3201-distribute-candies-among-children-ii) |
@@ -281,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
