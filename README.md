@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Matrix
@@ -302,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Shortest Path
+|  |
+| ------- |
+| [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 <!---LeetCode Topics End-->
