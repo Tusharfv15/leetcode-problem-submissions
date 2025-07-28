@@ -1,25 +1,26 @@
 class Solution {
 public:
-    int f(int ind, int currOr, vector<int>& nums, int maxOr, vector<vector<int>>& dp) {
-        if (ind == nums.size())
-            return currOr == maxOr ? 1 : 0;
+    int f(int ind,int currOr,vector<int>&nums,int maxOr){
+        int n = nums.size();
+    if(ind == n){
+        if(currOr == maxOr) return 1;
+        return 0;
+    };
+    int notTake  = f(ind+1,currOr,nums,maxOr);
+    int newOr = currOr|nums[ind];
+    int take = f(ind+1,newOr,nums,maxOr);
 
-        if (dp[ind][currOr] != -1) return dp[ind][currOr];
-
-        int notTake = f(ind + 1, currOr, nums, maxOr, dp);
-        int take = f(ind + 1, currOr | nums[ind], nums, maxOr, dp);
-
-        return dp[ind][currOr] = take + notTake;
+    return take + notTake;
     }
-
     int countMaxOrSubsets(vector<int>& nums) {
+        
         int n = nums.size();
         int maxOr = 0;
-        for (auto x : nums) maxOr |= x;
 
-        
-        vector<vector<int>> dp(n + 1, vector<int>(maxOr+1, -1));
+        for(auto it : nums){
+            maxOr = maxOr | it;
+        }
 
-        return f(0, 0, nums, maxOr, dp);
+        return f(0,0,nums,maxOr);
     }
 };
