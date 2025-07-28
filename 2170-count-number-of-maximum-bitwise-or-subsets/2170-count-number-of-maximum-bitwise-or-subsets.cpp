@@ -17,8 +17,8 @@ public:
         int maxOr = 0;
         for (auto x : nums) maxOr |= x;
 
-        int maxMask = 1 << 20;
-        vector<vector<int>> dp(n + 1, vector<int>(maxMask, -1));
+        
+        vector<vector<int>> dp(n + 1, vector<int>(maxOr+1, -1));
 
         return f(0, 0, nums, maxOr, dp);
     }
