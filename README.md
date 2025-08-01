@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0079-word-search) |
+| [0118-pascals-triangle](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0212-word-search-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0139-word-break) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0934-bitwise-ors-of-subarrays) |
