@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -381,4 +383,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
