@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3791-fruits-into-baskets-iii) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Greedy
 |  |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0735-asteroid-collision) |
 | [3790-fruits-into-baskets-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -392,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0342-power-of-four) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
