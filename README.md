@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2808-painting-the-walls](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2808-painting-the-walls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1559-cherry-pickup-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1559-cherry-pickup-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Hash Table
 |  |
