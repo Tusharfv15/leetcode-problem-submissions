@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Combinatorics
 |  |
