@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0135-candy) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0212-word-search-ii) |
 | [0498-diagonal-traverse](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0498-diagonal-traverse) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0594-longest-harmonious-subsequence) |
