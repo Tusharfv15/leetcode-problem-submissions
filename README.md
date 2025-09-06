@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3830-find-closest-person) |
 ## Combinatorics
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Queue
 |  |
 | ------- |
