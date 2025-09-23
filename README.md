@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0139-word-break) |
+| [0165-compare-version-numbers](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0212-word-search-ii) |
 | [1006-vowel-spellchecker](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1006-vowel-spellchecker) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0165-compare-version-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Linked List
