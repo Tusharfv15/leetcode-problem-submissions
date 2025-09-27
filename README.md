@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0830-largest-triangle-area) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0735-asteroid-collision) |
 | [0794-swim-in-rising-water](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0794-swim-in-rising-water) |
+| [0830-largest-triangle-area](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0854-making-a-large-island) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0940-fruit-into-baskets) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Game Theory
