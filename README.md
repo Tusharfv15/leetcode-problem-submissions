@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1130-last-stone-weight-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1130-last-stone-weight-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0135-candy) |
+| [1018-largest-perimeter-triangle](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [1018-largest-perimeter-triangle](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
