@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0079-word-search) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0135-candy) |
 | [1018-largest-perimeter-triangle](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0165-compare-version-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
