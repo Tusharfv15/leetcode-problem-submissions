@@ -15,7 +15,7 @@ public:
             else {
                 ans[i] = -1;
                 if(mpp.count(lake)){
-                    auto it = st.lower_bound(mpp[lake]);
+                    auto it = st.upper_bound(mpp[lake]);
 
                     if(it == st.end())return {};
 
