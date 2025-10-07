@@ -5,7 +5,7 @@ public:
         set<int>st;
         
         int n = rains.size();
-        vector<int>ans(n,1);
+        vector<int>ans(n,2);
 
         for(int i = 0;i<n;i++){
             int lake = rains[i];
