@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3797-design-spreadsheet) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3974-xor-after-range-multiplication-queries-i) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2529-range-product-queries-of-powers) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Dynamic Programming
 |  |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Heap (Priority Queue)
 |  |
