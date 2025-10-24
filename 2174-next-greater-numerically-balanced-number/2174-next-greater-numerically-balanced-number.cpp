@@ -8,7 +8,7 @@ public:
                 if (digitCount[i] != 0 && digitCount[i] != i)
                     return 0;
             }
-            return curr > n ? curr : 0; // ✅ fixed return
+            return curr > n ? curr : 0; 
         }
 
         int result = 0;
@@ -17,7 +17,7 @@ public:
                 digitCount[digit]--;
                 result = backtrack(n, curr * 10 + digit, count - 1);
                 digitCount[digit]++;
-                if (result) return result; // ✅ early exit if found
+                if (result) return result; 
             }
         }
         return result;
