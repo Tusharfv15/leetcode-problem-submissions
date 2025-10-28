@@ -12,8 +12,8 @@ public:
 
         else {
             nums[i]--;
-            dir = -dir;
-            return f(i+dir,nums,dir);
+            
+            return f(i-dir,nums,-dir);
         }
     }
     int countValidSelections(vector<int>& nums) {
