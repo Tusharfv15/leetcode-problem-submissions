@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Simulation
 |  |
 | ------- |
@@ -620,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Geometry
 |  |
 | ------- |
