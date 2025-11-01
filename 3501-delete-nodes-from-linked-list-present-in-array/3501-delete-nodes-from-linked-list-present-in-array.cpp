@@ -11,36 +11,32 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        map<int,int>mpp;
+        unordered_set<int> numSet;
         for(auto it : nums){
-            mpp[it] = 1;
+            numSet.insert(it);
         }
         ListNode* curr = head;
         ListNode *prev = NULL;
         while(curr){
             int value = curr->val;
             ListNode* nextNode = curr->next;
-            if(mpp[value]){
+            if(numSet.count(value)){
                 if(prev){
-                        prev->next = nextNode;
-                        curr->next = NULL;
-                        curr = nextNode;
+                    prev->next = nextNode;
+                    curr->next = NULL;
+                    curr = nextNode;
                 }
                 else {
-                     curr->next = NULL;
-                     curr = nextNode;
-                     head = nextNode;
+                    curr->next = NULL;
+                    curr = nextNode;
+                    head = nextNode;
                 }
-                
             }
             else {
                 prev = curr;
                 curr = nextNode;
             }
-
-
         }
         return head;
-
     }
 };
