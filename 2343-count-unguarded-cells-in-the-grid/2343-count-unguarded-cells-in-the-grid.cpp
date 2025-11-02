@@ -1,12 +1,13 @@
 class Solution {
 public:
     void dfs(int r, int c, vector<vector<char>>& grid, int dr, int dc) {
-        int m = grid.size(), n = grid[0].size();
-        while (r >= 0 && r < m && c >= 0 && c < n) {
-            if (grid[r][c] == 'G' || grid[r][c] == 'W') break;
-            if (grid[r][c] == '*') grid[r][c] = 'V'; // mark visible
-            r += dr;
-            c += dc;
+        int n = grid.size();
+        int m = grid[0].size();
+        while(r >=0 && r < n && c >=0 && c < m){
+            if(grid[r][c] == 'G' || grid[r][c] == 'W')break;
+            grid[r][c] = 'V';
+            r+=dr;
+            c+=dc;
         }
     }
 
