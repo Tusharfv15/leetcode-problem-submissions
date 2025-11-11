@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0212-word-search-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0139-word-break) |
+| [0474-ones-and-zeroes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0474-ones-and-zeroes) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1087-longest-arithmetic-subsequence) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0212-word-search-ii) |
+| [0474-ones-and-zeroes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1250-longest-common-subsequence) |
