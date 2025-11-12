@@ -1,5 +1,7 @@
 class Solution {
 public:
+    int findgcd(int a, int b) { 
+        while (a > 0 && b > 0) { if (a > b) { a = a % b; } else { b = b % a; } } if (a == 0) return b; else return a; }
     int minOperations(vector<int>& nums) {
         int n = nums.size();
 
@@ -17,7 +19,7 @@ public:
         for(int i = 0; i < n; i++) {
             int GCD = nums[i];
             for(int j = i+1; j < n; j++) {
-                GCD = gcd(GCD, nums[j]);
+                GCD = findgcd(GCD, nums[j]);
                 
                 if(GCD == 1) {
                     minStepsTo1 = min(minStepsTo1, j-i);
