@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
