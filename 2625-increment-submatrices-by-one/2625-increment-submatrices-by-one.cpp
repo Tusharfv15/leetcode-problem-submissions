@@ -18,12 +18,13 @@ public:
         vector<vector<int>> ans(n, vector<int>(n, 0));
 
         for (int i = 0; i < n; i++) {
-            int curr = 0;
-            for (int j = 0; j < n; j++) {
-                curr += diff[i][j];
-                ans[i][j] = curr;
+
+            for (int j = 1; j < n; j++) {
+                diff[i][j] += diff[i][j - 1];
             }
         }
-        return ans;
-    }
-};
+    
+    return diff;
+}
+}
+;
