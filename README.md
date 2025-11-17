@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1559-cherry-pickup-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
