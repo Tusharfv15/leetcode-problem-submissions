@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1087-longest-arithmetic-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1130-last-stone-weight-ii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1286-constrained-subsequence-sum](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1286-constrained-subsequence-sum) |
 | [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0135-candy) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1130-last-stone-weight-ii) |
 | [1250-longest-common-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1250-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1286-constrained-subsequence-sum](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1286-constrained-subsequence-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1559-cherry-pickup-ii) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
