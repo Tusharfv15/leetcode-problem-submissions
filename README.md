@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0037-sudoku-solver) |
+| [0053-maximum-subarray](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0120-triangle) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0139-word-break) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0053-maximum-subarray) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Monotonic Stack
 |  |
