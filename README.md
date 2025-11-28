@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Depth-First Search
 |  |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3863-power-grid-maintenance) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Binary Indexed Tree
