@@ -25,7 +25,7 @@ public:
 
        
         ans %= mod;
-        if (ans < 0) ans += mod;
+        //if (ans < 0) ans += mod;
 
         return (int)ans;
     }
