@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0679-24-game) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0735-asteroid-collision) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0503-next-greater-element-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
