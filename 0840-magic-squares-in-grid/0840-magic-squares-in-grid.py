@@ -12,6 +12,8 @@ class Solution:
                 for row in range(i, i + 3):
 
                     for col in range(j, j + 3):
+                        if grid[i+1][j+1] !=5:
+                            continue
                         number = grid[row][col]
                         if number >= 1 and number <= 9 and number not in st:
                             store_row_sum[row-i] += number
