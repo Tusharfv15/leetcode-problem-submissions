@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1286-constrained-subsequence-sum](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1286-constrained-subsequence-sum) |
 | [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1396-count-servers-that-communicate](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0854-making-a-large-island) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0729-my-calendar-i) |
 | [0794-swim-in-rising-water](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0794-swim-in-rising-water) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1087-longest-arithmetic-subsequence) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1612-avoid-flood-in-the-city) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
