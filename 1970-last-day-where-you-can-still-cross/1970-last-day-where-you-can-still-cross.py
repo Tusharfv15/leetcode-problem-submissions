@@ -7,28 +7,32 @@ class Solution:
         for i in range(day + 1):
             r, c = cells[i]
             grid[r-1][c-1] = 1  # water
-
+        
         q = deque()
-        vis = [[0]*m for _ in range(n)]
-
-        for j in range(m):
-            if grid[0][j] == 0:
-                q.append((0, j))
-                vis[0][j] = 1
+        vis = [[0]*m for i in range(n)]
+        for i in range(m):
+            if grid[0][i] == 0:
+                q.append((0,i))
+                vis[0][i] = 1
 
         while q:
-            r, c = q.popleft()
-            if r == n - 1:
+            row = q[0][0]
+            col = q[0][1]
+            q.popleft()
+
+            if row == n-1:
                 return True
 
             for dr, dc in ((1,0),(-1,0),(0,1),(0,-1)):
-                nr, nc = r + dr, c + dc
+                nr, nc = row + dr, col + dc
                 if 0 <= nr < n and 0 <= nc < m:
                     if grid[nr][nc] == 0 and not vis[nr][nc]:
                         vis[nr][nc] = 1
                         q.append((nr, nc))
 
         return False
+
+        
 
     def latestDayToCross(self, row: int, col: int, cells: List[List[int]]) -> int:
         l, r = 0, len(cells) - 1
