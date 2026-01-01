@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0326-power-of-three) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0120-triangle) |
