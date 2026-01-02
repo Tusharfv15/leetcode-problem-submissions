@@ -1,10 +1,6 @@
 class Solution:
-    def repeatedNTimes(self, nums: List[int]) -> int:
-        n = len(nums)/2
-        mpp = defaultdict(int)
-        for num in nums:
-            mpp[num]+=1
-            if mpp[num] == n:
-                return num
-
-        return -1
+    def repeatedNTimes(self, A: list[int]) -> int:
+        for i in range(len(A) - 2):
+            if A[i] == A[i + 1] or A[i] == A[i + 2]:
+                return A[i]
+        return A[-1]
