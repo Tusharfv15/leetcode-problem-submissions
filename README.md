@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
 | [0794-swim-in-rising-water](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0854-making-a-large-island) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
 | [0794-swim-in-rising-water](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0854-making-a-large-island) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1396-count-servers-that-communicate) |
@@ -820,4 +823,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
