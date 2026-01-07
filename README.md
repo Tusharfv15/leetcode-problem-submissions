@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0854-making-a-large-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1396-count-servers-that-communicate) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -827,4 +829,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
