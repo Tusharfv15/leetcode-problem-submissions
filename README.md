@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0079-word-search) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
