@@ -3,26 +3,30 @@ class Solution:
         hBars.sort()
         vBars.sort()
 
-        maxh = 1
-        maxv = 1
-        hLen = 1
-        vLen = 1
-
-        # Horizontal bars
-        for i in range(len(hBars) - 1):
-            if hBars[i + 1] - hBars[i] == 1:
-                hLen += 1
-                maxh = max(maxh, hLen)
+        vBarsLen = 1
+        hBarsLen = 1
+        maxh,maxl = 1,1
+        for i in range(len(hBars)-1):
+            if hBars[i+1] - hBars[i] == 1:
+                hBarsLen += 1
+                maxh = max(hBarsLen,maxh)
             else:
-                hLen = 1
+                hBarsLen = 1
 
-        # Vertical bars
-        for i in range(len(vBars) - 1):
-            if vBars[i + 1] - vBars[i] == 1:
-                vLen += 1
-                maxv = max(maxv, vLen)
+        
+        for i in range(len(vBars)-1):
+            if vBars[i+1] - vBars[i] == 1:
+                vBarsLen += 1
+                maxl = max(vBarsLen,maxl)
+
             else:
-                vLen = 1
+                maxh = max(hBarsLen,maxh)
+                vBarsLen = 1
 
-        side = min(maxh + 1, maxv + 1)
-        return side * side
+        l = min(maxh+1,maxl+1)
+        return l*l
+            
+
+
+
+        
