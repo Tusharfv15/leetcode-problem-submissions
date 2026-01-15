@@ -20,7 +20,7 @@ class Solution:
                 maxl = max(vBarsLen,maxl)
 
             else:
-                maxh = max(hBarsLen,maxh)
+                
                 vBarsLen = 1
 
         l = min(maxh+1,maxl+1)
