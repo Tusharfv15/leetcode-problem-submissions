@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1514-path-with-maximum-probability](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1514-path-with-maximum-probability) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1559-cherry-pickup-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1559-cherry-pickup-ii) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0794-swim-in-rising-water) |
 | [1286-constrained-subsequence-sum](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1286-constrained-subsequence-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1514-path-with-maximum-probability](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1514-path-with-maximum-probability) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1612-avoid-flood-in-the-city](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1917-maximum-average-pass-ratio) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1514-path-with-maximum-probability](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1514-path-with-maximum-probability) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 ## Brainteaser
 |  |
@@ -853,4 +856,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
