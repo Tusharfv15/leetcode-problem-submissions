@@ -10,11 +10,7 @@ class Solution:
                 l2 = bottomLeft[j]
                 r2 = topRight[j]
 
-                # No overlap
-                if r1[1] <= l2[1] or r2[1] <= l1[1]:
-                    continue
-                if r1[0] <= l2[0] or r2[0] <= l1[0]:
-                    continue
+            
 
                 # Found overlap
                 height = max(0, min(r1[1], r2[1]) - max(l1[1], l2[1]))
