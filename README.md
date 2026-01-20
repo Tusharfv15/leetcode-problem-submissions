@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-last-stone-weight-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1130-last-stone-weight-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1286-constrained-subsequence-sum](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1286-constrained-subsequence-sum) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1308-smallest-string-with-swaps](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-largest-magic-square](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0854-making-a-large-island) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0729-my-calendar-i) |
 | [0794-swim-in-rising-water](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0794-swim-in-rising-water) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1087-longest-arithmetic-subsequence) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1612-avoid-flood-in-the-city) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1970-last-day-where-you-can-still-cross) |
