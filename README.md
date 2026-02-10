@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3719-longest-balanced-subarray-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3678-design-task-manager](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3678-design-task-manager) |
+| [3719-longest-balanced-subarray-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0729-my-calendar-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3791-fruits-into-baskets-iii) |
@@ -858,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0053-maximum-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Monotonic Stack
 |  |
