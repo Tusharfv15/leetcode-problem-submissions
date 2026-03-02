@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
 | [0794-swim-in-rising-water](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0794-swim-in-rising-water) |
 | [0841-keys-and-rooms](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0841-keys-and-rooms) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0690-employee-importance) |
 | [0794-swim-in-rising-water](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0794-swim-in-rising-water) |
 | [0841-keys-and-rooms](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0841-keys-and-rooms) |
@@ -907,11 +909,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0841-keys-and-rooms) |
 | [1514-path-with-maximum-probability](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1514-path-with-maximum-probability) |
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/0547-number-of-provinces) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Tusharfv15/leetcode-problem-submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Search Tree
 |  |
